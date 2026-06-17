@@ -1,0 +1,6 @@
+AlchemyKey = KEY
+AlchemyURLWS = wss://eth-mainnet.g.alchemy.com/v2/
+AlchemyURLHTTP = https://eth-mainnet.g.alchemy.com/v2/
+TransferTopic = 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+COINGECKO_URL = https://api.coingecko.com
+COINGECKO_TTL = 600

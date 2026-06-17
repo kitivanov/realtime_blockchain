@@ -28,7 +28,7 @@
 Проект реализован в виде пайплайна, где каждый компонент выполняет одну задачу и взаимодействуют через каналы Go.
 
 ```
-Ethereum WebSocket
+Alchemy WebSocket (Ethereum ERC-20 Transfer)
         │
         ▼
  WSLogCollector

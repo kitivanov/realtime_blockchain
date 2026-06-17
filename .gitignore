@@ -1,0 +1,79 @@
+# =========================
+# Binaries
+# =========================
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go build output
+bin/
+dist/
+build/
+
+# Coverage
+coverage.out
+coverage.html
+*.coverprofile
+
+# =========================
+# Environment
+# =========================
+.env
+.env.*
+!.env.example
+
+# Local config
+config.local.*
+config.*.local.*
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# IDE
+# =========================
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+*.iml
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+*.tmp
+*_tst_
+
+# =========================
+# Air (live reload)
+# =========================
+.air/
+.air.toml
+
+# =========================
+# Delve debugger
+# =========================
+__debug_bin
+
+# =========================
+# Go workspace
+# =========================
+go.work
+go.work.sum
